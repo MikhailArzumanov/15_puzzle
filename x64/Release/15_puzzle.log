@@ -1,13 +1,7 @@
-﻿  15_puzzle.cpp
-C:\Users\Mikhaill\source\repos\Cpp_Projects\15_puzzle\15_puzzle.cpp(70,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Mikhaill\source\repos\Cpp_Projects\15_puzzle\15_puzzle.cpp(70,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Mikhaill\source\repos\Cpp_Projects\15_puzzle\15_puzzle.cpp(75,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Mikhaill\source\repos\Cpp_Projects\15_puzzle\15_puzzle.cpp(75,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Mikhaill\source\repos\Cpp_Projects\15_puzzle\15_puzzle.cpp(129,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Mikhaill\source\repos\Cpp_Projects\15_puzzle\15_puzzle.cpp(142,14): warning C4244: инициализация: преобразование "sf::Int32" в "float", возможна потеря данных
+﻿  mouse_handler.cpp
   Создание кода
-  2 of 151 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+  9 of 169 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   15_puzzle.vcxproj -> C:\Users\Mikhaill\source\repos\Cpp_Projects\15_puzzle\x64\Release\15_puzzle.exe

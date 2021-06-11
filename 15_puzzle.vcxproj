@@ -155,6 +155,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="15_puzzle.cpp" />
+    <ClCompile Include="draw.cpp" />
+    <ClCompile Include="environment.cpp" />
+    <ClCompile Include="environment_functions.cpp" />
+    <ClCompile Include="event_handler.cpp" />
+    <ClCompile Include="game_gen.cpp" />
+    <ClCompile Include="mouse_handler.cpp" />
+    <ClCompile Include="shuffle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="draw.hpp" />
+    <ClInclude Include="environment.hpp" />
+    <ClInclude Include="game_gen.hpp" />
+    <ClInclude Include="handlers.hpp" />
+    <ClInclude Include="libs.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
