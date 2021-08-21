@@ -1,6 +1,7 @@
 ﻿#include "draw.hpp"
 #include "game_gen.hpp"
 #include "handlers.hpp"
+#include "choose_level.hpp"
 
 void cycle();
 void tick();
@@ -13,7 +14,8 @@ int main(){
 	set_table();
 	srand(time(0));
 
-	console_start();
+	//console_start();
+	gui_start();
 	while (window.isOpen())
 		cycle();
 }

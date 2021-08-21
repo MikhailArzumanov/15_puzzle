@@ -155,6 +155,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="15_puzzle.cpp" />
+    <ClCompile Include="choose_level.cpp" />
     <ClCompile Include="draw.cpp" />
     <ClCompile Include="environment.cpp" />
     <ClCompile Include="environment_functions.cpp" />
@@ -164,6 +165,7 @@
     <ClCompile Include="shuffle.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="choose_level.hpp" />
     <ClInclude Include="draw.hpp" />
     <ClInclude Include="environment.hpp" />
     <ClInclude Include="game_gen.hpp" />
