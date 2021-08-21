@@ -23,5 +23,6 @@ extern point shifts[4];
 
 void set_table();
 void init_table();
+bool is_it_solved();
 void swap(int& a, int& b);
 void swap(point left, point right);

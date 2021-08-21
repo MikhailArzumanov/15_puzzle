@@ -5,6 +5,10 @@
 void cycle();
 void tick();
 
+void gameover() {
+	window.close();
+}
+
 int main(){
 	set_table();
 	srand(time(0));
@@ -15,8 +19,8 @@ int main(){
 }
 
 void cycle() {
-	float time = the_clock.getElapsedTime().asMilliseconds();
-	if (time > 50.f/3.f)
+	float time = the_clock.getElapsedTime().asSeconds();
+	if (time > 1/60.f)
 		tick();
 }
 
@@ -24,4 +28,6 @@ void tick() {
 	the_clock.restart();
 	event_handler();
 	draw();
+	if (is_it_solved())
+		gameover();
 }

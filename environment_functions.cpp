@@ -13,6 +13,16 @@ void init_table() {
 	table[TABLE_TILES - 1][TABLE_TILES - 1] = SPACE_CODE;
 }
 
+bool is_it_solved() {
+	for (int i = 0; i < TABLE_TILES; i++)
+		for (int j = 0; j < TABLE_TILES; j++) {
+			if (i == TABLE_TILES - 1 && j == TABLE_TILES - 1)
+				return true;
+			if (table[i][j] != 4 * i + j)
+				return false;
+		}
+}
+
 
 void swap(int& a, int& b) {
 	a ^= b;
