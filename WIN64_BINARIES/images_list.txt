@@ -1,1 +1,2 @@
 images/test_map.png
+images/test_map_2.png
