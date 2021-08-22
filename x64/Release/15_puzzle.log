@@ -2,7 +2,7 @@
 D:\repos\CPlusPlus\SFML\15_puzzle\choose_level.cpp(34,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
 D:\repos\CPlusPlus\SFML\15_puzzle\choose_level.cpp(34,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
   Создание кода
-  11 of 297 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+  2 of 297 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено

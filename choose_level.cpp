@@ -41,7 +41,7 @@ void draw_main_menu() {
 bool handle_click(sf::Event mouse_event) {
 	int x = mouse_event.mouseButton.x;
 	int y = mouse_event.mouseButton.y;
-	int i = y/180 + 4*(x/180);
+	int i = x/180 + 4*(y/180);
 	if(i >= images_paths.size())
 		return false;
 	path = images_paths[i];
