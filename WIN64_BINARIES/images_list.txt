@@ -3,3 +3,4 @@ images/test_map_2.png
 images/test_map_3.png
 images/test_map_4.png
 images/test_map_5.png
+images/test_map_6.png
