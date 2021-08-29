@@ -5,3 +5,4 @@ images/test_map_4.png
 images/test_map_5.png
 images/test_map_6.png
 images/test_map_7.png
+images/test_map_8.png
