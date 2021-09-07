@@ -10,7 +10,12 @@ void gameover() {
 	window.close();
 }
 
-int main(){
+int WinMain(
+	HINSTANCE hInstance,
+	HINSTANCE hPrevInstance,
+	LPSTR     lpCmdLine,
+	int       nShowCmd
+) {
 	set_table();
 	srand(time(0));
 
