@@ -11,3 +11,4 @@ images/1/10.png
 images/1/11.png
 images/1/12.png
 images/2/1.png
+images/2/2.png
