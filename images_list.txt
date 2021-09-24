@@ -16,3 +16,4 @@ images/2/3.png
 images/2/4.png
 images/2/5.png
 images/2/6.png
+images/2/7.png
