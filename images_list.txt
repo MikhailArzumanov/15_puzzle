@@ -20,3 +20,4 @@ images/2/7.png
 images/2/8.png
 images/2/9.png
 images/2/10.png
+images/2/11.png
