@@ -28,3 +28,4 @@ images/3/3.png
 images/3/4.png
 images/3/5.png
 images/3/6.png
+images/3/7.png
